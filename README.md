@@ -1,2 +1,2 @@
 # 08-Breakout
-my project breakout game.
+My changes to the basic breakout game are just a few small changes. I added backgrounds, changed the on-screen text a bit, changed the layout of the blocks, and added a second level. One issue I faced was getting the levels to work together. I wasn't able to get the score to stay where it was after the frist level and going into the second, and to get the level to change at a certain score, I had to make some changes. I made it switch to level two once the player got 900 points. With that in mind, the second level had to actually have less blocks than the second to keep it from restarting the level once it got to 900 points. A bit counter-intuitive, but works all the same.
